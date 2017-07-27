@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "70799bea_4a7ef6a9",
+        "filename": "Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2017-07-27T20:22:57Z",
+      "side": 1,
+      "message": "No AArch32 support?",
+      "revId": "1f0834acfba0e7779fa3eea4d36fabab825c2c3c",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1df9512a_ed0e1e29",
+        "filename": "Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2017-07-27T20:22:57Z",
+      "side": 1,
+      "message": "I wouldn\u0027t expect this to build",
+      "revId": "1f0834acfba0e7779fa3eea4d36fabab825c2c3c",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e99eb1c9_c6474782",
+        "filename": "Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2017-07-27T20:22:57Z",
+      "side": 1,
+      "message": "This either",
+      "revId": "1f0834acfba0e7779fa3eea4d36fabab825c2c3c",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "69f915ba_68749574",
+        "filename": "neon_adler32.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2017-07-27T20:22:57Z",
+      "side": 1,
+      "message": "Why change this to a header?",
+      "revId": "1f0834acfba0e7779fa3eea4d36fabab825c2c3c",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e0a76f6a_b45a7550",
+        "filename": "src/adler32.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2017-07-27T20:22:57Z",
+      "side": 1,
+      "message": "I\u0027m fine with the C file like upstream",
+      "revId": "1f0834acfba0e7779fa3eea4d36fabab825c2c3c",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad",
+      "unresolved": false
+    }
+  ]
+}
