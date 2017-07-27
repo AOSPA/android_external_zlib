@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9c769cc4_5febf184",
+        "filename": "Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2017-07-27T20:26:52Z",
+      "side": 0,
+      "message": "again no aarch32 support",
+      "revId": "1f0834acfba0e7779fa3eea4d36fabab825c2c3c",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "818fd673_6de3e9fa",
+        "filename": "Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2017-07-27T20:26:52Z",
+      "side": 0,
+      "message": "Bad history, fix things in the right commits",
+      "revId": "1f0834acfba0e7779fa3eea4d36fabab825c2c3c",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fe34b5b8_b7844a83",
+        "filename": "Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2017-07-27T20:26:52Z",
+      "side": 0,
+      "message": "aarch32 needs handling",
+      "revId": "1f0834acfba0e7779fa3eea4d36fabab825c2c3c",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "57463a25_29c40a5b",
+        "filename": "Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2017-07-27T20:26:52Z",
+      "side": 0,
+      "message": "same here",
+      "revId": "1f0834acfba0e7779fa3eea4d36fabab825c2c3c",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad",
+      "unresolved": false
+    }
+  ]
+}
