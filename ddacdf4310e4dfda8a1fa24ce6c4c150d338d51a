@@ -1,0 +1,9 @@
+Code-Review+1: Joe Maples
+Presubmit-Ready+1: Alex Naidis <alex.naidis@linux.com>
+Verified+1: Friendly BuildBot
+Code-Review+2: Alex Naidis <alex.naidis@linux.com>
+Submitted-by: Alex Naidis <alex.naidis@linux.com>
+Submitted-at: Sun, 30 Jul 2017 16:38:38 +0000
+Reviewed-on: https://gerrit.aospa.co/3589
+Project: AOSPA/android_external_zlib
+Branch: refs/heads/nougat-mr2
