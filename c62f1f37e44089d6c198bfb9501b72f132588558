@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ea9ac504_357e6470",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000488
+      },
+      "writtenOn": "2021-03-31T06:34:57Z",
+      "side": 1,
+      "message": "tracking the bug ID for more possible patches that might come our way. Might also take some patches from Mark Adler\u0027s fork of zlib",
+      "revId": "c62f1f37e44089d6c198bfb9501b72f132588558",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
