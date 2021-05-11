@@ -23,6 +23,8 @@ cflags_arm = [
 cflags_arm_neon = [
     // Undo the -DCPU_NO_SIMD from the generic (non-NEON) ARM flags.
     "-UCPU_NO_SIMD",
+    // Enable -O3 as per chromium.
+    "-O3",
     // We no longer support non-Neon platform builds, but the NDK only has one
     // libz.a that needs to work for non-Neon too.
     "-DADLER32_SIMD_NEON",
@@ -91,6 +93,7 @@ cc_defaults {
         // We do support const, so turn that on.
         "-DZLIB_CONST",
         "-DUNALIGNED_OK",
+        "-O3",
         "-Wall",
         "-Werror",
         "-Wno-unused",
@@ -185,6 +188,7 @@ cc_library {
         "-DHAVE_HIDDEN",
         // We do support const, so turn that on.
         "-DZLIB_CONST",
+        "-O3",
         "-Wall",
         "-Werror",
         "-Wno-unused",
