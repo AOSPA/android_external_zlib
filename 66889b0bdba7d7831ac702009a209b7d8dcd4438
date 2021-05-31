@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "36af5960_1c5773be",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2021-05-31T15:01:59Z",
+      "side": 1,
+      "message": "see https://github.com/AOSPA/android_external_zlib/commit/72356729f1036c382b10eeb076361e0753df4630#diff-d981e1dffc604d44d889a782e0d72038263220563585399506b1677fae36fe3d\n\ncrc32_z is not used.\n\nIn general, the various zlibs do similar things in different ways. I can pre review, but if we\u0027re picking from other projects besides chromium zlib, we should push to chromium zlib so they can verify correctness and validity.",
+      "revId": "66889b0bdba7d7831ac702009a209b7d8dcd4438",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
