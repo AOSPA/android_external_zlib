@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "16118398_5956dbbc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2022-05-22T14:06:11Z",
+      "side": 1,
+      "message": "Will be force-pushed away with a new Chromium merge.",
+      "revId": "ede1b68a77676013f060f7a1ee2cbd7c455d1bbb",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
