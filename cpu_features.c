@@ -11,7 +11,7 @@
 #include <stdint.h>
 #if defined(_MSC_VER)
 #include <intrin.h>
-#elif defined(ADLER32_SIMD_SSSE3)
+#elif defined(ADLER32_SIMD_SSSE3) || !defined(CPU_NO_SIMD)
 #include <cpuid.h>
 #endif
 
