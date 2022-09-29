@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "316cc248_e67d0b3a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2022-09-29T04:06:41Z",
+      "side": 1,
+      "message": "also merged to zlib-ng.  I just liked the chromium message better",
+      "revId": "fc0c3f878bec363b7b95272ebb4266d202962499",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
